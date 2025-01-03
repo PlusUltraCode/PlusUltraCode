@@ -1,8 +1,13 @@
 # 👋 Welcome to My GitHub Profile!
 
+### 💻 백엔드 개발자 | Backend Developer
+
+---
+
 ### 🏆 Baekjoon Online Judge Tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkd06144)](https://solved.ac/kkd06144/)
+
 ---
 
 ### 🛠️ My Tech Stack
@@ -27,13 +32,24 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 
+---
+
+### 📑 Connect With Me
+<div>
+  <a href="https://plusultracode.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://www.notion.so/PlusUltraCode-1566c9b9848a8058ab4af779f4cd3898" target="_blank">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlusUltraCode&show_icons=true&theme=radical)
 
 ---
 
 ### 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlusUltraCode&layout=compact&theme=radical)
