@@ -41,6 +41,15 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 
+### 🌟 Activitys
+<div>
+  <p>DND 연합 동아리 진행 중.. 2025-01-01~</p>
+  <p>멋쟁이 사자처럼 해커톤 경험  2024-08</p>
+  <p>향수 아이디어톤 수상 2024</p>
+  <p>코딩 역량평가 2급TOSC 2024-05-25   </p>
+  <p>멋쟁이 사자처럼 12기 수료 2024-03~ 2025-01</p>
+</div>
+
 ---
 ### 📝 Blog & Notion
 <div>
