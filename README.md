@@ -19,12 +19,13 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-
-### 💾 Database Tech Stack
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
+💾 Database Tech Stack
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
+<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=&logoColor=white" alt="JPA"> 
+  <img src="https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring JPA"> 
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"> 
+  <img src="https://img.shields.io/badge/QueryDSL-FF6600?style=for-the-badge&logo=&logoColor=white" alt="QueryDSL"> </div>
 
 ### 📎 Etc Tech Stack
 <div>
